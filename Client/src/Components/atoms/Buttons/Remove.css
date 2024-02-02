@@ -1,0 +1,25 @@
+.delete-btn {
+    display: block;
+    width: 200px;
+    margin: 1rem auto 0 auto;
+    color: red;
+    letter-spacing: var(--spacing);
+    background: transparent;
+    border: 1px solid var(--clr-red-dark);
+    padding: 0.25rem 0.5rem;
+    border-radius: var(--radius);
+    font-size: large;
+  }
+
+  .single-tour .delete-btn {
+    display: block;
+    width: 200px;
+    margin: 1rem auto 0 auto;
+    color: var(--clr-red-dark);
+    letter-spacing: var(--spacing);
+    background: transparent;
+    border: 1px solid var(--clr-red-dark);
+    padding: 0.25rem 0.5rem;
+    border-radius: var(--radius);
+    
+  }
